@@ -8,7 +8,7 @@
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run client\" \"nodemon server/index.js\""
   },
-  "author": "Your Name",
+  "author": "Updated Author Name",  // Updated the author name
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.2",
